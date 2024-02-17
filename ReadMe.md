@@ -12,10 +12,10 @@ To run the application, make sure you have .NET SDK installed on your machine.
 
 ```bash
 # Clone the repository
-
+https://github.com/Youssef-Alakouche/AmazonScrapingApp.git
 
 # Navigate to the project directory
-cd 
+cd AmazonScrapingApp
 
 # Restore the NuGet packages
 dotnet restore
@@ -39,5 +39,3 @@ dotnet run
 ## Note
 - This application is intended for personal use and educational purposes only. Use responsibly and respect the terms of service of the websites you scrape.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
