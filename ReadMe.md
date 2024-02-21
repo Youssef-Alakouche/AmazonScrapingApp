@@ -36,6 +36,9 @@ dotnet run
 - HtmlAgilityPack (Version 1.11.59)
 - EPPlus (Version 7.0.9)
 
+## Soon
+- Terminal interface with Terminal.Gui
+
 ## Note
 - This application is intended for personal use and educational purposes only. Use responsibly and respect the terms of service of the websites you scrape.
 
